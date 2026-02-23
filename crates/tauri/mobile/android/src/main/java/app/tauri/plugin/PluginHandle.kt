@@ -7,7 +7,7 @@ package app.tauri.plugin
 import android.app.Activity
 import android.content.Intent
 import android.content.SharedPreferences
-import android.webkit.WebView
+import org.chromium.android_crwebview.webkit.WebView
 import androidx.activity.result.IntentSenderRequest
 import androidx.core.app.ActivityCompat
 import app.tauri.PermissionHelper

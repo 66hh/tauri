@@ -8,7 +8,7 @@ import android.app.PendingIntent
 import android.content.res.Configuration
 import android.content.Context
 import android.content.Intent
-import android.webkit.WebView
+import org.chromium.android_crwebview.webkit.WebView
 import androidx.activity.result.ActivityResult
 import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.IntentSenderRequest

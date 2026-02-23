@@ -5,7 +5,7 @@
 package app.tauri
 
 import android.app.Activity
-import android.webkit.WebView
+import org.chromium.android_crwebview.webkit.WebView
 import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AppCompatActivity
 import app.tauri.annotation.Command

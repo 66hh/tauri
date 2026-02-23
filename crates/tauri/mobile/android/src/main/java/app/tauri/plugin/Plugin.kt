@@ -9,7 +9,7 @@ import android.content.res.Configuration
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.net.Uri
-import android.webkit.WebView
+import org.chromium.android_crwebview.webkit.WebView
 import androidx.activity.result.IntentSenderRequest
 import androidx.core.app.ActivityCompat
 import app.tauri.FsUtils
